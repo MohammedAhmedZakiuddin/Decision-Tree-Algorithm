@@ -1,6 +1,4 @@
-# Mohammed Ahmed Zakiuddin
-# 1001675091
-# To Run: python Assignment_4.py
+# To Run: python DS_Algo.py
 
 import numpy as np
 import pandas as pd
